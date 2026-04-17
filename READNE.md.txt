@@ -1,0 +1,17 @@
+# Caesar Cipher in Python
+
+This is a simple Caesar Cipher program written in Python.
+
+## Features
+- Encrypt messages
+- Decrypt messages
+- Handles uppercase and lowercase letters
+
+## How to Run
+1. Run the script:
+   python caesar_cipher.py
+2. Enter message and shift value
+
+## Example
+Input: HELLO, Shift: 3  
+Output: KHOOR
